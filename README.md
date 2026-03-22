@@ -79,10 +79,10 @@ pip install transformers==4.38.0 datasets==2.19.0 "numpy<2" matplotlib scikit-le
 
 ### Q1 — Signal Processing
 
--python q1/mfcc_manual.py
--python q1/leakage_snr.py
--python q1/voiced_unvoiced.py
--python q1/phonetic_mapping.py
+python q1/mfcc_manual.py
+python q1/leakage_snr.py
+python q1/voiced_unvoiced.py
+python q1/phonetic_mapping.py
 
 ---
 
