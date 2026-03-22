@@ -23,25 +23,25 @@ The work is divided into three parts:
 
 ## Project Structure
 
-Speech Assignment/
-│
-├── q1/
-│   ├── mfcc_manual.py
-│   ├── leakage_snr.py
-│   ├── voiced_unvoiced.py
-│   └── phonetic_mapping.py
-│
-├── q2/
-│   ├── train.py
-│   └── eval.py
-│
-├── q3/
-│   ├── audit.py
-│   ├── privacymodule.py
-│   └── train_fair.py
-│
-├── requirements.txt
-└── README.md
+    Speech Assignment/
+    │
+    ├── q1/
+    │   ├── mfcc_manual.py
+    │   ├── leakage_snr.py
+    │   ├── voiced_unvoiced.py
+    │   └── phonetic_mapping.py
+    │
+    ├── q2/
+    │   ├── train.py
+    │   └── eval.py
+    │
+    ├── q3/
+    │   ├── audit.py
+    │   ├── privacymodule.py
+    │   └── train_fair.py
+    │
+    ├── requirements.txt
+    └── README.md
 
 ---
 
