@@ -101,7 +101,9 @@ python q2/eval.py
 ### Q3 — Ethics & Fairness
 
 python q3/audit.py
+
 python q3/privacymodule.py
+
 python q3/train_fair.py
 
 ---
