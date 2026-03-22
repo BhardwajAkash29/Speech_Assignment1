@@ -77,28 +77,32 @@ pip install transformers==4.38.0 datasets==2.19.0 "numpy<2" matplotlib scikit-le
 
 ## How to Run
 
----
 ### Q1 — Signal Processing
 
 python q1/mfcc_manual.py
+
 python q1/leakage_snr.py
+
 python q1/voiced_unvoiced.py
+
 python q1/phonetic_mapping.py
+
 
 ---
 
 ### Q2 — Deep Learning
----
+
 python q2/train.py
+
 python q2/eval.py
 
 ---
 
 ### Q3 — Ethics & Fairness
 
--python q3/audit.py
--python q3/privacymodule.py
--python q3/train_fair.py
+python q3/audit.py
+python q3/privacymodule.py
+python q3/train_fair.py
 
 ---
 
